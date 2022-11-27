@@ -1,3 +1,0 @@
-/home/konke/CLionProjects/Basic_Types/cmake-build-debug/CMakeFiles/Basic_Types.dir
-/home/konke/CLionProjects/Basic_Types/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/konke/CLionProjects/Basic_Types/cmake-build-debug/CMakeFiles/rebuild_cache.dir
